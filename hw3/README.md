@@ -1,6 +1,6 @@
 # Algorithm Homework 3
 ## Dynamic Programming
-1. Grapped Alignment
+1. Grapped Alignment <br>
 In bioinformatics, a sequence alignment is a way of arranging the sequences of DNA, RNA,
 or protein to identify regions of similarity that may be a consequence of functional, structural,
 or evolutionary relationships between the sequences. Aligned sequences of nucleotide or amino
